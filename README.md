@@ -59,8 +59,7 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:colourise-->
 
-<p align=center>
-<img src="https://img.shields.io/badge/-Python-92B9D8?style=for-the-badge&logo=python" />
+
 <!--END_SECTION:colourise-->
 
 
